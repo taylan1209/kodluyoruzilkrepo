@@ -8,8 +8,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. 
 
-```bash
-git clone https://github.com/taylan1209/kodluyoruzilkrepo.git
+```[bash
+git clone https://github.com/taylan1209/kodluyoruzilkrepo.git](https://github.com/taylan1209/kodluyoruzilkrepo.git)
 ```
 
 ## Usage
